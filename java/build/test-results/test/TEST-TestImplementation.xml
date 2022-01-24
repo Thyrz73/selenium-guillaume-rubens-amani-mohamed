@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestImplementation" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-01-21T14:43:07" hostname="DESKTOP-J9R1AD3" time="47.496">
+  <properties/>
+  <testcase name="uncheckFifthElem" classname="TestImplementation" time="7.668"/>
+  <testcase name="checkFourthElem" classname="TestImplementation" time="4.767"/>
+  <testcase name="newEntryCheck" classname="TestImplementation" time="5.103"/>
+  <testcase name="checkFifthElem" classname="TestImplementation" time="4.944"/>
+  <testcase name="checkTirdElem" classname="TestImplementation" time="4.964"/>
+  <testcase name="verifyGitHubTitle" classname="TestImplementation" time="6.261"/>
+  <testcase name="verifyPageTitle" classname="TestImplementation" time="4.164"/>
+  <testcase name="checkSecondElem" classname="TestImplementation" time="4.598"/>
+  <testcase name="checkFirstElem" classname="TestImplementation" time="5.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[janv. 21, 2022 3:43:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+janv. 21, 2022 3:43:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+janv. 21, 2022 3:43:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+janv. 21, 2022 3:43:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+janv. 21, 2022 3:43:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+janv. 21, 2022 3:43:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+janv. 21, 2022 3:43:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+janv. 21, 2022 3:43:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+janv. 21, 2022 3:43:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: W3C
+]]></system-err>
+</testsuite>
